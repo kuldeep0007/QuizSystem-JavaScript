@@ -1,0 +1,30 @@
+[
+	{
+		"queno":"0",
+		"que":"0.What does CSS stand for?",
+		"ans":"Cascading Style Sheets",
+		"options":[ "Colorful Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets" ]
+	},
+	
+	{
+		"queno":"1",
+		"que":"1.Which HTML attribute is used to define inline styles?",
+		"ans":"style",
+		"options":[ " font", "class", "style", "styles" ]
+	},
+	
+	{
+		"queno":"2",
+		"que":"2.The Bootstrap grid system is based on how many columns?",
+		"ans":"12",
+		"options":[ "9", "3", "6", "12" ]
+	},
+	
+	{	
+		"queno":"3",
+		"que":"3.Which class adds zebra-stripes to a table?",
+		"ans":".table-striped",
+		"options":[ ".table-bordered", ".even and .odd", ".table-striped", ".table-zebra" ]
+	}
+	
+]
